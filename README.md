@@ -1,5 +1,4 @@
 # Hello, I'm **Nazia Imran** 👋
-![Nazia Imran](https://avatars.githubusercontent.com/u/<NaziaImran786>)
 
 # About Me
 
