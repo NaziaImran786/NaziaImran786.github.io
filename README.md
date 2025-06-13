@@ -36,6 +36,11 @@
 
 - 📧 Email: [naziaimran.4df@gmail.com](naziaimran.4df@gmail.com)
 - 🌐 **Portfolio**: [Nazia's Portfolio](https://nazia-pk.vercel.app/) <!-- Replace with actual link -->
+  
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/nazia-imran-588090300/) 👥  
+- [GitHub](https://github.com/NaziaImran786) 💻
 
 ---
 
