@@ -3,9 +3,9 @@
 
 # About Me
 
-  📚 Currently enrolled in **Agentic & Robotics AI Engineer**  
-  🎓 **Student Leader** at **Governor Sindh Initiative** for **AgenticAI**, **Web3**, and **Metaverse**  
   💻 **Persoing Web Developer**  
+  📚 Currently enrolled in **Agentic & Robotics AI Engineer**  
+  🎓 **Student Leader** at **Governor Sindh Initiative** for **AgenticAI**, **Web3**, and **Metaverse**   
   🌐 **Launching modern web apps** and **e-commerce platforms**
   ⚡ **Building projects** with **Openai SDK, Next.js 15, Tailwind CSS, FastAPI, Sanity.**
 
