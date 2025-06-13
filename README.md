@@ -23,7 +23,7 @@
 
   - **Company Website** – For **XponentialAI** –  
   - **Jungle Mug Listing automation FrontEnd** – For **Intership Project** – [Demo](#)  
-  - **Porfolio** –  For **Many Clients****  
+  - **Porfolio** –  For **Many Clients**  
   - **Textile company website** – for **Textile Buying Services**  
   - **Hekto** – **E-commerce Platform**  
   - **Blog website** – For **Heckathon**
