@@ -45,13 +45,13 @@
 
 ## 🏷️ GitHub Stats
 
-![Nazia Imran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naziaimran786&show_icons=true&hide_title=true) <!-- Replace with your username -->
+![Nazia Imran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaziaImran786&show_icons=true&hide_title=true) <!-- Replace with your username -->
 
-![Nazia Imran's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naziaimran786) <!-- Replace with your username -->
+![Nazia Imran's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NaziaImran786) <!-- Replace with your username -->
 
-![Nazia Imran's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naziaimran786&layout=compact) <!-- Replace with your username -->
+![Nazia Imran's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaziaImran786&layout=compact) <!-- Replace with your username -->
 
-![Nazia Imran's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=naziaimran786) <!-- Replace with your username -->
+![Nazia Imran's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=NaziaImran786) <!-- Replace with your username -->
 
 ---
 
