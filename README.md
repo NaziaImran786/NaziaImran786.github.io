@@ -51,7 +51,7 @@
 
 ![Nazia Imran's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaziaImran786&layout=compact) <!-- Replace with your username -->
 
-![Nazia Imran's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=NaziaImran786) <!-- Replace with your username -->
+
 
 ---
 
