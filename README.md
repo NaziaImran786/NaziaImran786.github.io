@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f5ffbc40-2073-441d-98cf-2165749ff6f8)# Hello, I'm **Nazia Imran** 👋
+# Hello, I'm **Nazia Imran** 👋
 
 # About Me
 
