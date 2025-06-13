@@ -1,10 +1,10 @@
-# Hello, I'm **Nazia Imran** 👋
+![image](https://github.com/user-attachments/assets/f5ffbc40-2073-441d-98cf-2165749ff6f8)# Hello, I'm **Nazia Imran** 👋
 
 # About Me
 
   📚 Currently enrolled in **Agentic & Robotics AI Engineer**  
   🎓 **Student Leader** at **Governor Sindh Initiative** for **AgenticAI**, **Web3**, and **Metaverse**  
-  💻 **Full Stack Developer**  
+  💻 **Persoing Web Developer**  
   🌐 **Launching modern web apps** and **e-commerce platforms**
   ⚡ **Building projects** with **Openai SDK, Next.js 15, Tailwind CSS, FastAPI, Sanity.**
 
